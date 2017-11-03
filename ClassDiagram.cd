@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="gracz">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAQAABBAAAAAAAAAAAAACAAAAAAAABAAAAAAAAAAgQ=</HashCode>
+      <FileName>gracz.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gracz_czlowiek">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>gracz.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="kulka">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgSAAAAAAEBAAAIAAAAAAgERAAAiAAAAAAAAAAIEAIA=</HashCode>
+      <FileName>zmienne_i_typy.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
